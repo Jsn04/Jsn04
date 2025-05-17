@@ -52,7 +52,6 @@ Currently exploring innovations at the intersection of **AI and society**, I’m
 - 🤖 **Amazon's Generative AI with Large Language Models** – *AWS & DeepLearning.AI*  
 - 📊 **Google Advanced Data Analytics Certificate** – *Coursera (Google Career Path)*  
 - 📈 **Introduction to Machine Learning** – *Great Learning*  
-- 🔍 **Sentiment Analysis using Python** – *Great Learning*  
 - 👁️ **Face Detection with OpenCV in Python** – *Great Learning*  
 - ☁️ **AWS for Beginners** – *Great Learning*
 
