@@ -26,9 +26,9 @@ Currently exploring innovations at the intersection of **AI and society**, I’m
 
 ### 📫 Contact Me
 
-- ✉️ Email: jineshnanal04@gmail.com
-- 🧑‍💻 GitHub: Jsn04 | (https://github.com/Jsn04)
-- 💼 LinkedIn: Jinesh Nanal | (https://www.linkedin.com/in/jinesh-nanal-60b76a254/)
+- ✉️ Email: jineshnanal04@gmail.com  
+- 🧑‍💻 GitHub: [Jsn04] | (https://github.com/Jsn04)  
+- 💼 LinkedIn: [Jinesh Nanal] | (https://www.linkedin.com/in/jinesh-nanal-60b76a254/)
 
 ---
 
@@ -46,15 +46,31 @@ Currently exploring innovations at the intersection of **AI and society**, I’m
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🧾 Major Certifications
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jsn04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsn04&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jsn04&theme=tokyonight" alt="GitHub Streak" />
-</div>
+- 🎓 **CS50x: Introduction to Computer Science** – *Harvard University*  
+- 🤖 **Amazon's Generative AI with Large Language Models** – *AWS & DeepLearning.AI*  
+- 📊 **Google Advanced Data Analytics Certificate** – *Coursera (Google Career Path)*  
+- 📈 **Introduction to Machine Learning** – *Great Learning*  
+- 🔍 **Sentiment Analysis using Python** – *Great Learning*  
+- 👁️ **Face Detection with OpenCV in Python** – *Great Learning*  
+- ☁️ **AWS for Beginners** – *Great Learning*
 
 ---
 
-> “Empowering innovation through intelligence and purpose.”  
+### 🌟 Vision & Values
+
+- 🚀 I believe in building **intelligent, ethical, and impactful AI systems**.  
+- 💬 I love working on **LLM-based applications** that foster accessibility, education, and mental health support.  
+- 🧩 I explore intersections of **Generative AI and human creativity** to solve complex problems.  
+- 🤝 Open to collaborations on projects in **AI for social good**, **language learning**, or **financial forecasting**.
+
+---
+
+### 💬 Let’s Connect
+
+If you’re working on something exciting or have a visionary idea you’d like to build with AI —  
+**Let’s talk and collaborate!**
+
+> _“Empowering innovation through intelligence and purpose.”_  
 > — *Jinesh Nanal*
