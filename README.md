@@ -113,6 +113,7 @@ A full-stack SaaS platform turning local Indian sports clubs into "Elite Perform
 
 ### 🏅 Awards & Recognition
 
+* 🇯🇵 **Factory Innovation Week 2026, Tokyo** — Selected delegate at Asia's largest smart-manufacturing expo; gained on-ground exposure to Industry 4.0, AI-in-factory deployments, robotics, and IoT-driven production systems
 * 🥇 **Shiv Chhatrapati Award** — Government of Maharashtra's highest sporting honour
 * 🥈 **World Games Series 2024** — Silver + Bronze Medal, Team India (Inline Skating)
 * 🌍 **World Ranked** — 6th Battle Slalom · 7th Classic Slalom (2024)
