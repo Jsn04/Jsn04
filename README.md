@@ -1,75 +1,111 @@
 # 👋 Hello, I'm Jinesh Nanal! 🚀
 
-## LLM | GenAI | Python | Machine Learning | Deep Learning
+## Founder · LLM · GenAI · Full-Stack · ML / DL
 
 ---
 
 ### 🧠 About Me
 
-I am a passionate developer and researcher with hands-on experience in **LLMs**, **Generative AI**, and **cutting-edge AI/ML technologies**.  
-With a strong foundation in **Python**, **Machine Learning**, and **Deep Learning**, I strive to build intelligent systems that solve real-world problems and enhance user experiences.
+I'm a **21-year-old National Champion athlete** turned founder, building **AthleteIQ** — an AI sports performance SaaS for Indian academies. I work at the intersection of **LLMs, applied ML, and product engineering**, shipping production systems end-to-end (frontend, backend, AI, payments, infra).
 
-Currently exploring innovations at the intersection of **AI and society**, I’m always eager to collaborate on impactful projects—especially those involving **LLM fine-tuning**, **custom GenAI applications**, or **AI for social good**.
+I care about building **intelligent, ethical, and impactful AI** that solves problems I have lived through — whether it's coaching data gaps that get athletes injured, or rural riders losing GPS in tunnels.
+
+Currently scaling AthleteIQ with a clear path to ₹1L MRR across 50 Pune academies.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 💡 **Languages:** Python, JavaScript, C++, Java, Rust  
-- 🧠 **AI/ML/DL:** TensorFlow, OpenCV, Scikit-learn, Deep Learning, Data Analysis  
-- 🔁 **LLMs & GenAI:** Gemini, Hugging Face Transformers, LangChain  
-- 🌐 **Web Tech:** React.js, Node.js, Express.js, Flask  
-- 💾 **Database & Big Data:** MongoDB, MySQL, Apache Spark, Apache Kafka  
-- ☁️ **Tools & Platforms:** Git, VS Code, Google Colab, Streamlit
+* 💡 **Languages:** Python, JavaScript, TypeScript, C++, Java, Rust
+* 🧠 **AI/ML/DL:** PyTorch, TensorFlow, OpenCV, Scikit-learn, XGBoost, Hugging Face
+* 🔁 **LLMs & GenAI:** Groq (LLaMA 3.3), Gemini, Claude, LangChain, Prompt Engineering, RAG
+* 🌐 **Web:** React 18, FastAPI, Node.js, Express, Flask, Tailwind
+* 💾 **Database & Big Data:** PostgreSQL, Supabase, MongoDB, MySQL, Apache Spark, Apache Kafka
+* ☁️ **Infra & Tools:** Vercel, Render, Razorpay, Git, Docker, GitHub Actions, Streamlit
 
 ---
 
-### 📫 Contact Me
+### 🚀 Featured Project — AthleteIQ (Startup)
 
-- ✉️ Email: jineshnanal04@gmail.com  
-- 🧑‍💻 GitHub: [Jsn04] | (https://github.com/Jsn04)  
-- 💼 LinkedIn: [Jinesh Nanal] | (https://www.linkedin.com/in/jinesh-nanal-60b76a254/)
+> **AI Sports Performance SaaS for Indian Academies** · Production · Live
+
+**[athlete-iq-dun.vercel.app](https://athlete-iq-dun.vercel.app)** · **[Repo →](https://github.com/Jsn04/AthleteIQ)**
+
+A full-stack SaaS platform turning local Indian sports clubs into "Elite Performance Centers" through AI — without the ₹5L/year price tag of competitors like Catapult or Hudl.
+
+* 🧠 **AI Readiness Engine** — ACWR (Acute:Chronic Workload Ratio) + Groq LLaMA 3.3 70B narration + deception detection
+* ⚡ **Bulk Session Logger** — logs a 50-athlete squad in under 3 minutes
+* 👨‍👩‍👧 **Parent Recovery Portal** — read-only insights + WhatsApp deep-links
+* 💳 **Live Razorpay payments** with webhook-based plan activation
+* 🧘 **Mental Performance Suite** — Box Breathing, 4-7-8, Body Scan, Visualization
+* 🔐 **DPDP Act 2023 compliant** — full legal pages built-in
+
+**Stack:** React 18 · FastAPI · Supabase · Groq LLaMA · Razorpay · Vercel · Render
 
 ---
 
-### 🏆 Projects
+### 🏆 Other Projects
 
-- 🔮 **FinOracle – Stock Market Predictor**  
-  Built a stock prediction system using ML and DL models (LSTM, RNN, Logistic Regression, Decision Tree, KNN) and big data tools like Apache Spark and Kafka. Achieved **96% accuracy** using historical indicators and moving averages.
+* 🪖 **[Smart Helmet for Offline Navigation](https://github.com/Jsn04/Smart-Helmet-for-Offline-Navigation)**
+  Physical-AI–enabled wearable for two-wheeler riders providing turn-by-turn navigation **without GPS or network**. Uses sensor fusion (IMU + accelerometer), dead-reckoning, and map-matching to maintain position inside tunnels, hills, and dead zones. Includes accident detection, HUD visualization, and ESP32-based hardware integration.
+  *Stack: Python · Sensor Fusion · OpenStreetMap · ESP32 · Bluetooth · Embedded Systems*
 
-- 🗣️ **Lingaunova – Language Learning App**  
-  A multilingual education app developed during a 48-hour hackathon. Integrated **Gemini 1.0 Pro** for real-life conversational roleplay, image-to-language mapping using **WorqHat's GenAI**, and story-based learning with **speech-to-text NLP**.  
-  🏆 **Secured 3rd place** at RenAIssance Hackathon.
+* 🚗 **[Driver Drowsiness Detection](https://github.com/Jsn04/Drowsiness_Detection)**
+  Deep learning pipeline classifying driver alertness from eye-state images. Built CNN and CNN+LSTM hybrid models on the Closed Eyes in the Wild (CEW) dataset, with full EDA, augmentation, and ROC/PR evaluation.
+  *Stack: PyTorch · CNN · LSTM · OpenCV*
 
-- 🍴 **Food Del – Food Delivery App**  
-  Built using the **MERN Stack**, this project supports seamless order flow and intuitive UI. Integrated React.js frontend with Node.js, Express.js backend, and MongoDB database for order management.
+* 🧠 **[HackAIthon — Mental Health Analysis](https://github.com/Jsn04/HackAIthon-Project)**
+  Smart mental health prevention system combining GenAI, LLMs, and ML to assess emotional well-being and provide empathetic, contextual support.
+
+* 🗣️ **[LinguaNova — AI Language Learning](https://github.com/Jsn04/LinguaNova)**
+  48-hour hackathon project. Immersive roleplay with Gemini 1.0 Pro, image-to-language mapping via WorqHat GenAI, and story-mode learning with speech-to-text NLP.
+  🏆 **3rd place at RenAIssance Hackathon**
+
+* 📊 **[Data Quest — Financial Risk Prediction](https://github.com/Jsn04/Data-Quest--Hackathon)**
+  Financial risk model on imbalanced data using SMOTE, XGBoost, and Balanced RF.
+  🏆 **2nd place out of 400+ teams**
+
+* 🩺 **[ML Hackathon — Sepsis Prediction](https://github.com/Jsn04/ML-hackathon-)**
+  Health analytics + sepsis prediction pipeline using ensemble ML.
+  🏆 **2nd place**
+
+* 🔮 **FinOracle — Stock Market Predictor**
+  Big-data stock prediction system using LSTM, RNN, Logistic Regression, Decision Tree, and KNN. Apache Spark + Kafka pipeline. **96% accuracy.**
 
 ---
 
 ### 🧾 Major Certifications
 
-- 🎓 **CS50x: Introduction to Computer Science** – *Harvard University*  
-- 🤖 **Amazon's Generative AI with Large Language Models** – *AWS & DeepLearning.AI*  
-- 📊 **Google Advanced Data Analytics Certificate** – *Coursera (Google Career Path)*  
-- 📈 **Introduction to Machine Learning** – *Great Learning*  
-- 👁️ **Face Detection with OpenCV in Python** – *Great Learning*  
-- ☁️ **AWS for Beginners** – *Great Learning*
+* 🎓 **CS50x: Introduction to Computer Science** — *Harvard University*
+* 🤖 **Generative AI with Large Language Models** — *AWS & DeepLearning.AI*
+* 📊 **Google Advanced Data Analytics Certificate** — *Coursera (Google Career)*
+* 📈 **Introduction to Machine Learning** — *Great Learning*
+* 👁️ **Face Detection with OpenCV in Python** — *Great Learning*
+* ☁️ **AWS for Beginners** — *Great Learning*
 
 ---
 
 ### 🌟 Vision & Values
 
-- 🚀 I believe in building **intelligent, ethical, and impactful AI systems**.  
-- 💬 I love working on **LLM-based applications** that foster accessibility, education, and mental health support.  
-- 🧩 I explore intersections of **Generative AI and human creativity** to solve complex problems.  
-- 🤝 Open to collaborations on projects in **AI for social good**, **language learning**, or **financial forecasting**.
+* 🚀 Build **intelligent, ethical, impactful AI** — not demos, real products people pay for
+* 🇮🇳 Make elite-level tools accessible to Indian sports, healthcare, and education
+* 🧩 Explore the intersection of **GenAI and human creativity**
+* 🤝 Open to collaborations on **AI for social good**, sports tech, and EdTech
 
 ---
 
-### 💬 Let’s Connect
+### 📫 Contact
 
-If you’re working on something exciting or have a visionary idea you’d like to build with AI —  
-**Let’s talk and collaborate!**
+* ✉️ Email: [jineshnanal04@gmail.com](mailto:jineshnanal04@gmail.com)
+* 🧑‍💻 GitHub: [Jsn04](https://github.com/Jsn04)
+* 💼 LinkedIn: [Jinesh Nanal](https://www.linkedin.com/in/jinesh-nanal-60b76a254/)
+* 🌐 AthleteIQ: [athlete-iq-dun.vercel.app](https://athlete-iq-dun.vercel.app)
 
-> _“Empowering innovation through intelligence and purpose.”_  
+---
+
+### 💬 Let's Connect
+
+If you're working on something exciting — **AI for sports, healthcare, accessibility, or social good** — let's talk and build something that matters.
+
+> *"Empowering innovation through intelligence and purpose."*
 > — *Jinesh Nanal*
