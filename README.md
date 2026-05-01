@@ -46,11 +46,12 @@ A full-stack SaaS platform turning local Indian sports clubs into "Elite Perform
 
 ### 🏆 Other Projects
 
-* 🪖 **[Smart Helmet for Offline Navigation](https://github.com/Jsn04/Smart-Helmet-for-Offline-Navigation)**
+* 🪖 **Smart Helmet for Offline Navigation** *(🔒 Private — National Hackathon Submission)*
   Physical-AI–enabled wearable for two-wheeler riders providing turn-by-turn navigation **without GPS or network**. Uses sensor fusion (IMU + accelerometer), dead-reckoning, and map-matching to maintain position inside tunnels, hills, and dead zones. Includes accident detection, HUD visualization, and ESP32-based hardware integration.
+  *Repo currently private pending an upcoming national-level hackathon.*
   *Stack: Python · Sensor Fusion · OpenStreetMap · ESP32 · Bluetooth · Embedded Systems*
 
-* 🚗 **[Driver Drowsiness Detection](https://github.com/Jsn04/Drowsiness_Detection)**
+* 🚗 **[Driver Drowsiness Detection](https://github.com/Jsn04/Dl_project)**
   Deep learning pipeline classifying driver alertness from eye-state images. Built CNN and CNN+LSTM hybrid models on the Closed Eyes in the Wild (CEW) dataset, with full EDA, augmentation, and ROC/PR evaluation.
   *Stack: PyTorch · CNN · LSTM · OpenCV*
 
