@@ -44,10 +44,10 @@ First author on all four.
 
 | Paper | Venue | Status |
 | :--- | :--- | :--- |
-| **Subject-Disjoint Cross-Dataset Evaluation of CNN and CNN-LSTM Models for Visual Driver Drowsiness Detection**<br><sub>Exposes a 17.52% drowsy-frame miss rate hidden by standard within-dataset splits. · [code](https://github.com/Jsn04/Dl_project)</sub> | MAI 2026<br><sub>Springer LNEE</sub> | **Presented**<br><sub>Sept 2026</sub> |
-| **When Prompt-Injection Detectors Meet New Data: A Leakage-Free Cross-Corpus Evaluation**<br><sub>Attack recall falls from 0.92 in-distribution to 0.61 cross-corpus across five independently sourced corpora.</sub> | IEEE TPS 2026 | Under review |
-| **A Smart Helmet for Two-Wheeler Navigation under GNSS Denial: Route-Aware Dead Reckoning and Road-Scene Segmentation**<br><sub>19.7% lower peak position error than unaided dead reckoning across 47 paired GNSS blackouts (p = 0.002); 0.856 road IoU on unseen BDD100K.</sub> | IEEE INDICON 2026 | Under review |
-| **A Reversible PII-Redacting Proxy for DPDP-Compliant Use of Third-Party LLM APIs**<br><sub>Redacts and restores PII around third-party LLM calls, for India's DPDP Act 2023. · [code](https://github.com/Jsn04/dpdp-llm-proxy)</sub> | IEEE DELCON 2026 | Under review |
+| **Subject-Disjoint Cross-Dataset Evaluation of CNN and CNN-LSTM Models for Visual Driver Drowsiness Detection**<br>Exposes a 17.52% drowsy-frame miss rate hidden by standard within-dataset splits. · [code](https://github.com/Jsn04/Dl_project) | MAI 2026<br><sub>Springer LNEE</sub> | **Presented**<br><sub>Sept 2026</sub> |
+| **When Prompt-Injection Detectors Meet New Data: A Leakage-Free Cross-Corpus Evaluation**<br>Attack recall falls from 0.92 in-distribution to 0.61 cross-corpus across five independently sourced corpora. | IEEE TPS 2026 | Under review |
+| **A Smart Helmet for Two-Wheeler Navigation under GNSS Denial: Route-Aware Dead Reckoning and Road-Scene Segmentation**<br>19.7% lower peak position error than unaided dead reckoning across 47 paired GNSS blackouts (p = 0.002); 0.856 road IoU on unseen BDD100K. | IEEE INDICON 2026 | Under review |
+| **A Reversible PII-Redacting Proxy for DPDP-Compliant Use of Third-Party LLM APIs**<br>Redacts and restores PII around third-party LLM calls, for India's DPDP Act 2023. · [code](https://github.com/Jsn04/dpdp-llm-proxy) | IEEE DELCON 2026 | Under review |
 
 > A theme runs through these: models that look strong on standard benchmarks lose much of their accuracy once the evaluation is made honest. That is also how I build.
 
