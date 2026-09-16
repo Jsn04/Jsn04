@@ -8,25 +8,21 @@ I build AI systems that run in production under real constraints — multi-tenan
 
 ---
 
-## Currently
-
-### Gruve AI — Applied AI Engineer
-`Jun 2026 – present`
-
-- Built runtime proxy layers on the PulseAI platform, cutting token latency across multi-tenant GPU clusters.
-- Deployed agentic AI assistants into the Cisco Secure AI Factory pipeline, with no client data leaving the customer environment.
+## Experience
 
 ### AthleteIQ — Founder & Lead Engineer
-`Jan 2026 – present` · **[athleteiqhq.com](https://athleteiqhq.com)** · [repo](https://github.com/Jsn04/AthleteIQ)
+`Jan 2026 – Present` · **[athleteiqhq.com](https://athleteiqhq.com)** · [repo](https://github.com/Jsn04/AthleteIQ)
 
 - Multi-tenant sports AI platform, live since January 2026 across **21 academies** and **596 registered athletes**.
 - Solo full-stack build: React, FastAPI, PostgreSQL with row-level security, Groq LLM.
 - Wrote the risk engine — ACWR, a personalised baseline-deviation method covering ACWR's 28-day cold start, and a coach-versus-athlete consistency check.
 - Believed to be the first documented deployment of ACWR injury-risk monitoring at an Indian grassroots academy; written up as a deployment study.
 
----
+### Gruve AI — Applied AI Engineer
+`Jun 2026 – Present`
 
-## Previously
+- Built runtime proxy layers on the PulseAI platform, cutting token latency across multi-tenant GPU clusters.
+- Deployed agentic AI assistants into the Cisco Secure AI Factory pipeline, with no client data leaving the customer environment.
 
 ### NVIDIA, Quadro Team — Tools Development Intern
 `Jul – Dec 2025`
